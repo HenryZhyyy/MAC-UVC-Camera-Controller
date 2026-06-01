@@ -1,4 +1,4 @@
-# UVC Realtime Controller
+# MAC-UVC-Camera-Controller
 
 A Python-based UVC camera control and preview tool for macOS using native IOKit USB control requests.
 
