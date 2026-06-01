@@ -17,7 +17,8 @@ Unlike standard camera utilities that rely on OpenCV camera properties or vendor
 
 ## Screenshot
 
-<img src="docs/screenshot.png" width="900">
+![Uploading 7f597566fb04758520ff2da72cdc52be.png…]()
+
 
 ## Requirements
 
