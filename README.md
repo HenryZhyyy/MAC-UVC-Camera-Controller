@@ -17,7 +17,7 @@ Unlike standard camera utilities that rely on OpenCV camera properties or vendor
 
 ## Screenshot
 
-![Uploading 7f597566fb04758520ff2da72cdc52be.png…]()
+https://github.com/HenryZhyyy/MAC-UVC-Camera-Controller/blob/main/Screen_shot.png
 
 
 ## Requirements
